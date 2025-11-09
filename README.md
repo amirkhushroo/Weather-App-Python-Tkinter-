@@ -36,3 +36,7 @@ python weather_app.py
 
 
 4) Enter a city name and click "Get Details" to view weather info.
+
+
+AUTHOR :
+Created by [AMIR KHUSHROO]
